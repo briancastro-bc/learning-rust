@@ -1,5 +1,3 @@
-
-
 // Las funciones o structs de los módulos por defecto son privadas.
 #[allow(dead_code)]
 fn private_func() -> () {
